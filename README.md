@@ -18,10 +18,6 @@ Conditional attack success rate (ASR): attacks that succeed on questions the mod
 | Llama-3.2-3B-Instruct | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` |
 | Qwen2.5-3B-Instruct | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` |
 
-`[Insert bar chart: results/figures/asr_by_condition.png]`
-
-`[One or two sentences summarising the main pattern, copied from your Results section.]`
-
 Results are descriptive (percentages, tables, bar charts). No confidence intervals or significance tests are reported, and the sample is small, so treat differences as indicative, not conclusive.
 
 ## Design in brief
