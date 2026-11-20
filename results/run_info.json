@@ -1,0 +1,8 @@
+{
+ "revisions": {
+  "meta-llama/Llama-3.2-3B-Instruct": "0cb88a4f764b7a12671c53f0838cd831a0843b95",
+  "Qwen/Qwen2.5-3B-Instruct": "aa8e72537993ba99e69dfaafa59ed015b17504d1"
+ },
+ "transformers": "5.20.2",
+ "torch": "2.11.0+cu130"
+}
