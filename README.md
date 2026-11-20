@@ -15,8 +15,8 @@ Conditional attack success rate (ASR): attacks that succeed on questions the mod
 
 | Model | Clean accuracy | Document / blunt | Document / polite | Message / blunt | Message / polite |
 |---|---|---|---|---|---|
-| Llama-3.2-3B-Instruct | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` |
-| Qwen2.5-3B-Instruct | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` | `XX.X%` |
+| Llama-3.2-3B-Instruct | `41.0%` | `23.2%` | `13.4%` | `24.4%` | `14.6%` |
+| Qwen2.5-3B-Instruct | `39.5%` | `2.5%` | `1.3%` | `36.7%` | `21.5%` |
 
 Results are descriptive (percentages, tables, bar charts). No confidence intervals or significance tests are reported, and the sample is small, so treat differences as indicative, not conclusive.
 
